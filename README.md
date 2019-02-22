@@ -4,6 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Purpose of this project
 Practice React
 
+## ScreenShot
+![calculator image](https://raw.githubusercontent.com/mohammedSlimani/calculator/master/screenshot/calculator.png)
+
+## CodePEN
+play with the calculator live at https://codepen.io/tromastrom/pen/vbqBgL
+
 ## Available Scripts
 
 In the project directory, you can run:
